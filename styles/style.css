@@ -55,6 +55,7 @@ button {
     border: 2px dotted navy;
     border-radius: 5px;
     background-color:lightskyblue;
+    font-weight: bolder;
 }
 .display-results {
     display: flex;
@@ -68,4 +69,5 @@ button {
 }
 .input {
     width: 50%;
+    background-color: lightskyblue;
 }
