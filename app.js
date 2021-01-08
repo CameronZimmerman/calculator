@@ -1,4 +1,4 @@
-import { addClickHandler, diffClickHandler, multClickHandler, divClickHandler } from './handlers';
+import { addClickHandler, diffClickHandler, multClickHandler, divClickHandler } from './handlers.js';
 
 const addButton = document.getElementById('addition-button');
 const subButton = document.getElementById('subtraction-button');
